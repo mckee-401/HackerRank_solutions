@@ -8,7 +8,6 @@ public class Solution {
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();
         // Complete this line
-        // Complete this line
         int b = scan.nextInt();
         int c = scan.nextInt();
         // 次のトークン(空・改行・タブで区切られた単位)がint型として解釈できるなら読み取り返す
@@ -18,7 +17,6 @@ public class Solution {
         // scanner.close();は、Scannerクラスのインスタンスを閉じるメゾット
 
         System.out.println(a);
-        // Complete this line
         // Complete this line
         System.out.println(b);
         System.out.println(c);
